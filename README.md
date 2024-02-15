@@ -6,7 +6,7 @@ jquery-fileupload-rails is a library that integrates jQuery File Upload for Rail
 
 ## Plugin versions
 
-* jQuery File Upload Plugin v9.12.5
+* jQuery File Upload Plugin v10.32.0
 
 ## Installing Gem
 
